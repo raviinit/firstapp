@@ -1,0 +1,6 @@
+<resources>
+    <!-- Base application theme. -->
+    <dimen name="textPadding20">20dp</dimen>
+    <dimen name="textSize28">28sp</dimen>
+    <dimen name="textSize35">35sp</dimen>
+</resources>
